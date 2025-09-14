@@ -41,11 +41,6 @@ This project uses **two 7-segment LED displays** connected to an **Arduino Uno**
 
 ![Countdown Demo](demo.gif)
 
-> Replace `demo.gif` with the actual path/URL of your GIF.  
-For example:
-- Local file: `![Countdown Demo](images/demo.gif)`
-- GitHub-hosted file: upload `demo.gif` into your repo and link it.
-
 ---
 
 ## 📜 License
