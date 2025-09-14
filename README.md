@@ -1,6 +1,8 @@
 # ⏱️ Arduino 7-Segment Countdown (59 → 0)
 
-This project uses **two 7-segment LED displays** connected to an **Arduino Uno** to create a countdown timer from **59 down to 0** using the non-blocking `millis()` function (instead of `delay()`).
+This project demonstrates how to build a **countdown timer (59 → 0)** using two 7-segment LED displays connected to an Arduino.  
+Since 7-segment displays do not support true multi-threading, we avoid using `delay()` (which blocks execution).  
+Instead, we use the **non-blocking `millis()` function** to handle timing, ensuring smooth countdown operation.
 
 ---
 
