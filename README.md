@@ -44,6 +44,3 @@ Instead, we use the **non-blocking `millis()` function** to handle timing, ensur
 ![Countdown Demo](demo.gif)
 
 ---
-
-## 📜 License
-This project is open-source under the MIT License.
