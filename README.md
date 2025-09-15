@@ -41,7 +41,7 @@ Instead, we use the **non-blocking `millis()` function** to handle timing, ensur
 
 ## 🎥 Demo
 
-![Countdown Demo](demo.gif)
+![Countdown Demo](demo.mp4)
 
 ---
 
