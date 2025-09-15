@@ -41,7 +41,7 @@ Instead, we use the **non-blocking `millis()` function** to handle timing, ensur
 
 ## 🎥 Demo
 
-![Countdown Demo](demo.mp4)
+https://github.com/your-username/arduino-7seg-countdown/blob/main/demo.mp4
 
 ---
 
